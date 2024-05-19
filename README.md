@@ -18,4 +18,6 @@ Internship Timeline:
 
 - Internship Dates: June 15 - August 25, 2024/2025/2026/2027/2028
 
-This internship program represents an incredible professional development opportunity. We invite all eligible students passionate about life sciences and data to apply!
+This internship program represents an incredible professional development opportunity. We invite all eligible students passionate about life sciences and data to apply! We will use the following registration form for 2024-2028 registration: 
+
+Registration Page: https://forms.gle/vVT8hdSMzVMNcEre6
