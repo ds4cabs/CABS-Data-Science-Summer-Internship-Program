@@ -21,3 +21,11 @@ Internship Timeline:
 This internship program represents an incredible professional development opportunity. We invite all eligible students passionate about life sciences and data to apply! We will use the following registration form for 2024-2028 registration: 
 
 Registration Page: https://forms.gle/vVT8hdSMzVMNcEre6
+
+Notes:
+
+1. The CABS data science summer internship is fully remote, with no on-site requirements.
+   
+2. The CABS data science summer internship is an unpaid position, offering full flexibility for the program.
+
+3. Our motivation is to enhance students' skillsets and provide pre-job exposure, including interview preparation and project experience in the pharmaceutical industry.
