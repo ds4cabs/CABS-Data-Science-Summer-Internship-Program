@@ -29,3 +29,5 @@ Notes:
 2. The CABS data science summer internship is an unpaid position, offering full flexibility for the program.
 
 3. Our motivation is to enhance students' skillsets and provide pre-job exposure, including interview preparation and project experience in the pharmaceutical industry.
+
+4. This is a part-time summer internship, not a full-time commitment. You are welcome to participate in multiple internships if you wish. However, please note that obtaining a recommendation letter for this internship will require a high level of engagement with the project.
