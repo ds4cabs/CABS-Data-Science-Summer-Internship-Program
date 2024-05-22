@@ -1,6 +1,6 @@
 # CABS-Data-Science-Summer-Internship-Program
 
-The Chinese American Biopharmaceutical Society (CABS) is thrilled to announce a new summer internship program focused on the cutting-edge field of data science applied to drug discovery and development.
+The Chinese American Biopharmaceutical Society (CABS) is thrilled to announce a new [summer internship program](https://www.cabsweb.org/events/5702230/CABS%202024%20Intern%20Program%20in%20Data%20Science%20in%20drug%20discovery%20and%20development/) focused on the cutting-edge field of data science applied to drug discovery and development.
 
 As our industry generates unprecedented amounts of data from genomics, proteomics, clinical trials and real-world evidence, there is a growing need for talented data scientists who can derive insights to drive innovation. CABS is committed to helping bridge this talent gap and train the next generation of data leaders in biopharma.
 
