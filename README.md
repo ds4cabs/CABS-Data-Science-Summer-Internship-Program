@@ -4,7 +4,7 @@ The Chinese American Biopharmaceutical Society (CABS) is thrilled to announce a 
 
 As our industry generates unprecedented amounts of data from genomics, proteomics, clinical trials and real-world evidence, there is a growing need for talented data scientists who can derive insights to drive innovation. CABS is committed to helping bridge this talent gap and train the next generation of data leaders in biopharma.
 
-This 10-week non-paid internship program will provide an immersive experience for undergraduate and graduate students to work alongside data science teams at top CABS member companies in the San Francisco Bay Area. Interns will get hands-on experience applying the latest machine learning, AI and data analytics tools to solve real-world challenges across all phases of the drug development lifecycle.
+This 10-week non-paid in-person/remote internship program will provide an immersive experience for undergraduate and graduate students to work alongside data science teams at top CABS member companies in the San Francisco Bay Area. Interns will get hands-on experience applying the latest machine learning, AI and data analytics tools to solve real-world challenges across all phases of the drug development lifecycle.
 
 Not only will interns gain technical data skills, but they will also learn about the biopharma business through workshops, networking events, and mentorship opportunities with CABS member company leaders, entrepreneurs and investors.
 
