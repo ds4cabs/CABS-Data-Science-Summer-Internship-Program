@@ -1,5 +1,5 @@
 ### Week 1:
-- **Task 1:** Identify three ideal jobs you want to pursue in the pharmaceutical industry on LinkedIn post-graduation. 
+- **Task 1:** Identify three ideal jobs and person you want to pursue in the pharmaceutical industry on LinkedIn post-graduation. 
 - **Task 2:** Learn GitHub project management.
 - **Task 3:** Learn to use project management software/platforms such as Jira.
 - **Task 4:** Review all CABS repositories to find a project that interests you. Use ChatGPT to gain a deeper understanding of the project and learn how to approach it.
