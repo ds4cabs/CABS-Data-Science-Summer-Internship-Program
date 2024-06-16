@@ -34,10 +34,4 @@ Notes:
 
 5. This is a part-time summer internship, not a full-time commitment. You are welcome to participate in multiple internships if you wish. However, please note that obtaining a recommendation letter for this internship will require a high level of engagement with the project.
 6. **Compliance with DOL Guidelines:** The CABS internship program will strictly adhere to the U.S. Department of Labor's six-factor test for unpaid internships, ensuring that the internship is educational and beneficial to the Intern without providing immediate advantage to CABS. This compliance guarantees that the internship is a legitimate learning experience and not considered employment.
-7. **CPT and OPT Considerations**: While unpaid internships at non-profits generally do not require Curricular Practical Training (CPT) or Optional Practical Training (OPT), it is advisable to consult with the Designated School Official (DSO) at the student's university to ensure compliance with all F-1 visa regulations.
-8. **University and Legal Compliance:** Please consult the student center to ensure the internship also complies with all legal requirements from your university, department, and local regulations.
-
-
-
-
-
+7. **CPT and OPT Considerations**: While unpaid internships at non-profits generally do not require Curricular Practical Training (CPT) or Optional Practical Training (OPT), it is advisable to consult with the Designated School Official (DSO) at the student's university to ensure compliance with all F-1 visa regulations from your university, department, and local regulations.
