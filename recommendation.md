@@ -7,7 +7,7 @@
 ### Week 2:
 
 - **Task 1:** Review additional materials related to the projects using ChatGPT to gain a broader understanding of the data, methods, and significance of the project.
-- **Task 1:** Get some feedback from team, mentor group and connections. 
+- **Task 1:** Attend team meeting, brainstorming and get some feedback from team, mentor group and connections. 
   
 ### Week 3:
 - **Task 1:** Continue working on your chosen project and update your progress on GitHub.
@@ -17,3 +17,7 @@
 
 ### Week 5:
 - **Task 1:** Complete your project, receive feedback, and obtain a recommendation letter.
+- **Task 2:** Complete your project, receive feedback, and obtain a recommendation letter.
+- **Task 3:** Complete your project, receive feedback, and give an presentation within team.
+
+
