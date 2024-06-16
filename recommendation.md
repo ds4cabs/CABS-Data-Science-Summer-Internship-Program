@@ -16,8 +16,6 @@
 - **Task 1:** Continue working on your project and update your progress on GitHub.
 
 ### Week 5:
-- **Task 1:** Complete your project, receive feedback, and obtain a recommendation letter.
-- **Task 2:** Complete your project, receive feedback, and obtain a recommendation letter.
-- **Task 3:** Complete your project, receive feedback, and give an presentation within team.
+- **Task 1:** Complete your project, receive feedback, give an 30min presentation personal or as a team and obtain a recommendation letter.
 
 
