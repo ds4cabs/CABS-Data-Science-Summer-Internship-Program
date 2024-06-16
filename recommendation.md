@@ -10,7 +10,7 @@
 - **Task 1:** Get some feedback from team, mentor group and connections. 
   
 ### Week 3:
-- **Task 1:** Start working on your chosen project and update your progress on GitHub.
+- **Task 1:** Continue working on your chosen project and update your progress on GitHub.
 
 ### Week 4:
 - **Task 1:** Continue working on your project and update your progress on GitHub.
