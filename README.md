@@ -22,7 +22,7 @@ This internship program represents an incredible professional development opport
 
 Registration Page: https://forms.gle/vVT8hdSMzVMNcEre6
 
-*Major Focus Areas:*
+**Major Focus Areas:**
 
 The internship program covers a broad range of focus areas to provide a comprehensive understanding of the biopharma industry. Interns can choose to work in one or more of the following areas based on their interests and career goals:
 
