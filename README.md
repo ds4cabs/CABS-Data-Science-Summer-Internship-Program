@@ -22,6 +22,35 @@ This internship program represents an incredible professional development opport
 
 Registration Page: https://forms.gle/vVT8hdSMzVMNcEre6
 
+The internship program covers a broad range of focus areas to provide a comprehensive understanding of the biopharma industry. Interns can choose to work in one or more of the following areas based on their interests and career goals:
+
+1.	Research and Development (R&D): ds4RnD
+2.	Clinical Development: ds4ClinDev
+3.	Regulatory Affairs: ds4RegAffairs
+4.	Medical Affairs: ds4MedAffairs
+5.	Commercial (Marketing and Sales): ds4Commercial
+6.	Market Access: ds4MarketAccess
+7.	Manufacturing and Operations: ds4MfgOps
+8.	Quality Assurance and Control: ds4QAQC
+9.	Supply Chain Management: ds4SupplyChain
+10.	Finance and Accounting: ds4Finance
+11.	Human Resources: ds4HR
+12.	Legal and Compliance: ds4Legal
+13.	Information Technology (IT): ds4IT
+14.	Corporate Communications: ds4CorpComms
+15.	Business Development: ds4BizDev
+16.	Strategy and Business Analytics: ds4Strategy
+17.	Environmental Health and Safety (EHS): ds4EHS
+18.	Clinical Pharmacology: ds4ClinPharm
+19.	Translational Medicine: ds4TransMed
+20.	Project Management: ds4ProjMgmt
+21.	Compliance and Ethics: ds4CompEthics
+22.	Patient Advocacy: ds4PatientAdvocacy
+23.	Corporate Social Responsibility (CSR): ds4CSR
+24.	Health Economics and Outcomes Research (HEOR): ds4HEOR
+25.	Risk Management: ds4RiskMgmt
+
+
 Notes:
 
 1. The CABS data science summer internship is fully remote, with no on-site requirements.
