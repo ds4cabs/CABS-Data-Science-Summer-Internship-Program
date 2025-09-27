@@ -12,8 +12,6 @@ A primary focus will be nurturing a talented and diverse pipeline of data scienc
 
 Internship Timeline:
 
-- Applications Open: April 1, 2024/2025/2026/2027/2028
-
 - Application Deadline: June 5th, 2024/2025/2026/2027/2028
 
 - Internship Dates: June 15 - August 25, 2024/2025/2026/2027/2028
