@@ -52,6 +52,11 @@ The internship program covers a broad range of focus areas to provide a comprehe
 25.	Risk Management: [DS4RiskMgmt](https://github.com/ds4cabs/DS4RiskMgmt)
 
 
+**Featured Intern Projects:**
+
+- [ConferenceAgent](https://github.com/ds4cabs/ConferenceAgent) — AI-powered scientific intelligence system that transforms conference abstracts and public signals into structured, source-grounded, pre-conference strategic reports (ASCO, AACR, ESMO, ASH, AHA, AASLD).
+
+
 Notes:
 
 1. The CABS data science summer internship is fully remote, with no on-site requirements.
