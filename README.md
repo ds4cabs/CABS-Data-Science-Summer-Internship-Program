@@ -25,31 +25,31 @@ This internship program represents an incredible professional development opport
 
 The internship program covers a broad range of focus areas to provide a comprehensive understanding of the biopharma industry. Interns can choose to work in one or more of the following areas based on their interests and career goals:
 
-1.	Research and Development (R&D): ds4RnD
-2.	Clinical Development: ds4ClinDev
-3.	Regulatory Affairs: ds4RegAffairs
-4.	Medical Affairs: ds4MedAffairs
-5.	Commercial (Marketing and Sales): ds4Commercial
-6.	Market Access: ds4MarketAccess
-7.	Manufacturing and Operations: ds4MfgOps
-8.	Quality Assurance and Control: ds4QAQC
-9.	Supply Chain Management: ds4SupplyChain
-10.	Finance and Accounting: ds4Finance
-11.	Human Resources: ds4HR
-12.	Legal and Compliance: ds4Legal
-13.	Information Technology (IT): ds4IT
-14.	Corporate Communications: ds4CorpComms
-15.	Business Development: ds4BizDev
-16.	Strategy and Business Analytics: ds4Strategy
-17.	Environmental Health and Safety (EHS): ds4EHS
-18.	Clinical Pharmacology: ds4ClinPharm
-19.	Translational Medicine: ds4TransMed
-20.	Project Management: ds4ProjMgmt
-21.	Compliance and Ethics: ds4CompEthics
-22.	Patient Advocacy: ds4PatientAdvocacy
-23.	Corporate Social Responsibility (CSR): ds4CSR
-24.	Health Economics and Outcomes Research (HEOR): ds4HEOR
-25.	Risk Management: ds4RiskMgmt
+1.	Research and Development (R&D): [DS4RnD](https://github.com/ds4cabs/DS4RnD)
+2.	Clinical Development: [DS4ClinDev](https://github.com/ds4cabs/DS4ClinDev)
+3.	Regulatory Affairs: [DS4RegAffairs](https://github.com/ds4cabs/DS4RegAffairs)
+4.	Medical Affairs: [DS4MedAffairs](https://github.com/ds4cabs/DS4MedAffairs)
+5.	Commercial (Marketing and Sales): [DS4Commercial](https://github.com/ds4cabs/DS4Commercial)
+6.	Market Access: [DS4MarketAccess](https://github.com/ds4cabs/DS4MarketAccess)
+7.	Manufacturing and Operations: [DS4MfgOps](https://github.com/ds4cabs/DS4MfgOps)
+8.	Quality Assurance and Control: [DS4QAQC](https://github.com/ds4cabs/DS4QAQC)
+9.	Supply Chain Management: [DS4SupplyChain](https://github.com/ds4cabs/DS4SupplyChain)
+10.	Finance and Accounting: [DS4Finance](https://github.com/ds4cabs/DS4Finance)
+11.	Human Resources: [DS4HR](https://github.com/ds4cabs/DS4HR)
+12.	Legal and Compliance: [DS4Legal](https://github.com/ds4cabs/DS4Legal)
+13.	Information Technology (IT): [DS4IT](https://github.com/ds4cabs/DS4IT)
+14.	Corporate Communications: [DS4CorpComms](https://github.com/ds4cabs/DS4CorpComms)
+15.	Business Development: [DS4BizDev](https://github.com/ds4cabs/DS4BizDev)
+16.	Strategy and Business Analytics: [DS4Strategy](https://github.com/ds4cabs/DS4Strategy)
+17.	Environmental Health and Safety (EHS): [DS4EHS](https://github.com/ds4cabs/DS4EHS)
+18.	Clinical Pharmacology: [DS4ClinPharm](https://github.com/ds4cabs/DS4ClinPharm)
+19.	Translational Medicine: [DS4TransMed](https://github.com/ds4cabs/DS4TransMed)
+20.	Project Management: [DS4ProjMgmt](https://github.com/ds4cabs/DS4ProjMgmt)
+21.	Compliance and Ethics: [DS4CompEthics](https://github.com/ds4cabs/DS4CompEthics)
+22.	Patient Advocacy: [DS4PatientAdvocacy](https://github.com/ds4cabs/DS4PatientAdvocacy)
+23.	Corporate Social Responsibility (CSR): [DS4CSR](https://github.com/ds4cabs/DS4CSR)
+24.	Health Economics and Outcomes Research (HEOR): [DS4HEOR](https://github.com/ds4cabs/DS4HEOR)
+25.	Risk Management: [DS4RiskMgmt](https://github.com/ds4cabs/DS4RiskMgmt)
 
 
 Notes:
