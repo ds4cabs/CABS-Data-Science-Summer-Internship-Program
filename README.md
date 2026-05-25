@@ -12,9 +12,9 @@ A primary focus will be nurturing a talented and diverse pipeline of data scienc
 
 Internship Timeline:
 
-- Application Deadline: June 5th, 2024/2025/2026/2027/2028
+- Application Deadline: June 5th, 2024/2025/2026/2027/2028/2029/2030/2031/2032/2033/2034
 
-- Internship Dates: June 15 - August 25, 2024/2025/2026/2027/2028
+- Internship Dates: June 15 - August 25, 2024/2025/2026/2027/2028/2029/2030/2031/2032/2033/2034
 
 This internship program represents an incredible professional development opportunity. We invite all eligible students passionate about life sciences and data to apply! We will use the following registration form for 2024-2028 registration: 
 
